@@ -61,7 +61,7 @@ class App extends Component {
 
   winning = () => {
     if (this.state.score === this.state.friends.length) {
-      alert('YOU WIN!! congratulations!')
+      alert('YOU WIN!! You ROCK!')
       this.setState({});
       this.resetGame();
     }
