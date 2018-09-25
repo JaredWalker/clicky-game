@@ -18,7 +18,7 @@ class App extends Component {
       if (image.id === id) {
         if (image.cliked) {
           // $("#myModal").modal('toggle');
-          alert('YOU LOST!! This card was previously selected.');
+          alert('YOU LOST!! You are out of Gas!.');
           this.setState({})
           this.resetGame();
           return false;
