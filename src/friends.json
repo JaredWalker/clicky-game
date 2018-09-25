@@ -1,93 +1,93 @@
 [
     {
       "id": 1,
-      "image":"https://piximus.net/media/34399/american-muscle-cars-18-1.jpg",
+      "image":"img/68ChargerRT.png",
       
      "clicked": false
     },
     {
       "id": 2,
-      "image": "https://s.yimg.com/ny/api/res/1.2/fjJjz5a_YH7C3x5OFvVgRg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9MTI4MDtoPTk2MA--/http://media.zenfs.com/en-US/homerun/road_track_223/6a934f09747606274a86db4d50704f94",
+      "image": "img/69CamaroZL1.png",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "https://i.ytimg.com/vi/0J7xZHnw4TQ/maxresdefault.jpg",
+      "image": "img/69Mustang.png",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "https://img-new.cgtrader.com/items/981465/2a263ab77c/1968-1969-american-muscle-cars-3d-model.jpg",
+      "image": "img/1967Corvette.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "https://cdn.barrett-jackson.com/staging/carlist/items/Fullsize/Cars/93183/93183_Front_3-4_Web.jpg",
+      "image": "img/70BuickGSX.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_8Wle8aAkCTk3F-1Rs1j1-vgWo4w8EIWvcpkH93IsK2cKk7i",
+      "image": "img/70ChallengerRT.png",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "https://cdn04.carsforsale.com/3/396330/22801310/thumb/1117117942.jpg",
+      "image": "img/70DodgeSuperBee.png",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "http://image.superchevy.com/f/40794469+w640+h426+q80+re0+cr1+ar0+st0/ghtp-1209-2012-camaro-zl1-road-test-01.jpg",
+      "image": "img/2016GT350.png",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "https://topspeedmotors.co/wp-content/uploads/Top_Speed_American_Muscle_Cars_5a7de5e843dc0ee1383d83d1.jpeg",
+      "image": "img/70Olds442.png",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "https://i.ytimg.com/vi/J4BvYduFSMU/maxresdefault.jpg",
+      "image": "img/2019Demon.png",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "https://universeofcars.ru/wp-content/uploads/2017/09/Dodge-Super-Bee-1-768x432.jpg",
+      "image": "img/70Chevelle.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "https://s3.racingjunk.com/ui/9/63/49506639-765-1970-Oldsmobile-442-W30.jpg",
+      "image": "img/70Superbird.png",
       "clicked": false
     },
     {
       "id": 13,
-      "image": "http://cdn3.volusion.com/klmat.yytxn/v/vspfiles/photos/STN-2103U-2.jpg?1477632079",
+      "image": "img/2012ZL1.png",
       "clicked": false
     },
     {
       "id": 14,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1969_GTO_Judge.jpg/290px-1969_GTO_Judge.jpg",
+      "image": "img/77T:A.png",
       "clicked": false
     },
     {
       "id": 15,
-      "image": "http://thenewswheel.com/wp-content/uploads/2018/06/2019-Ford-Mustang-Shelby-GT350-1-760x319.jpeg",
+      "image": "img/69GTO.png",
       "clicked": false
     },
     {
       "id": 16,
-      "image": "https://media.chevrolet.com/content/media/us/en/chevrolet/vehicles/corvette-z06/2018/_jcr_content/mediaVehiclePar/image.img.jpg/1509559126769.jpg",
+      "image": "img/87BuickGNX.png",
       "clicked": false
     },
     {
       "id": 17,
-      "image": "http://2-photos7.motorcar.com/used-1970-plymouth-superbird_real_deal-forsale-8031-17478394-1-1024.jpg",
+      "image":"img/2017Z06.png",
       "clicked": false
     },
     {
       "id": 18,
-      "image": "https://cdn1.mecum.com/auctions/fl0116/fl0116-229825/images/fl0116-229825_1@2x.jpg?1466954242000",
+      "image": "img/70CamaroZ28.png",
       "clicked": false
     }
   ]
